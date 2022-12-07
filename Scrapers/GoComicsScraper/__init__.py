@@ -1,0 +1,1 @@
+from .GoComicsScraper import GoComicsScraper

@@ -1,0 +1,1 @@
+from .GarfieldScraper import GarfieldScraper
