@@ -1,4 +1,10 @@
-# comic-scraper
+# Comic Scraper!
+
+This silly little project was made to scrape certain comics from around the Interwebs.  
+It was made out of boredome over the course of a weekend to try to learn a bit of web scraping.  
+Python was chosen almost "just because" but partially because it had been a while since I had used Python and I read that it has decent libraries for web scraping.
+
+## Getting This Running
 
 To switch to the virtual environment:  
 `source venv/bin/activate`
@@ -24,8 +30,8 @@ TODO
 
 Features to add
 
-- Logging system that shows which comic had an issue and which strip failed.
-  - Can use error handling to "gracefully skip over that failed one and go to the next while logging it to look into later.
+- ~~Logging system that shows which comic had an issue and which strip failed.~~
+  - ~~Can use error handling to "gracefully skip over that failed one and go to the next while logging it to look into later.~~
 
 Comics to add
 
